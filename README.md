@@ -10,3 +10,6 @@ Open Source Developer
 - Contributing to open-source projects, and advanced computing
 instruction in data structures and algorithms.
 - Appling and learning advanced programming concepts to gain insights into approaches to excel during a technical interview hiring process.
+
+
+https://datascience.aucenter.edu/odxos/
